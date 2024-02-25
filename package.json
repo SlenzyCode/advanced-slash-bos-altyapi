@@ -1,0 +1,17 @@
+{
+  "name": "slenzy",
+  "version": "1.0.0",
+  "description": "Slenzy - 2024",
+  "main": "src/app.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "wio.db": "^4.0.22"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "shard": "node src/shard.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT"
+}

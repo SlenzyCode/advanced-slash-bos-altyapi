@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "destek_sunucusu": "destek_sunucu_link_adresiniz",
+        "presences": [
+            "{botName}"
+        ],
+        "idles": "online/idle/dnd/invisible",
+        "owners": ["1070795507082985524","919393266204569600"]
+    },
+    "premium": {
+        "commands": [],
+        "message": "{user} bu komudu kullanabilmen için premium üyeliğine sahip olmalısınız."
+    },
+    "blacklist": {
+        "message": "{user} maalesef bu botu kullanamazsınız {reason} sebebiyle karalisteye alındınız."
+    },
+    "command_log": {
+        "channel_id": "1211190853956276264"
+    },
+    "error_log": {
+        "channel_id": "1211190853956276264"
+    }
+}
