@@ -5,7 +5,7 @@
             "{botName}"
         ],
         "idles": "online/idle/dnd/invisible",
-        "owners": ["1070795507082985524","919393266204569600"]
+        "owners": []
     },
     "premium": {
         "commands": [],
@@ -15,9 +15,9 @@
         "message": "{user} maalesef bu botu kullanamazsınız {reason} sebebiyle karalisteye alındınız."
     },
     "command_log": {
-        "channel_id": "1211190853956276264"
+        "channel_id": "komut_kullanılınca_atılacak_log_kanal_id"
     },
     "error_log": {
-        "channel_id": "1211190853956276264"
+        "channel_id": "hata_olunca_atılacak_log_kanal_id"
     }
 }
