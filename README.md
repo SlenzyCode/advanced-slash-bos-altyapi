@@ -24,4 +24,4 @@
 2. Bu projeye star atın.
 
 ## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/SlenzyCode/advanced-bos-altyapi/blob/main/LICENSE) dosyasına göz atın.
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/SlenzyCode/advanced-slash-bos-altyapi/blob/main/LICENSE) dosyasına göz atın.
