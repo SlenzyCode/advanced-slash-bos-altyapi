@@ -2,7 +2,7 @@
 # Discord Slash Boş Altyapı
 
 ## 📑 Bot Özellikleri
-- ✅ Json entegrasyonu
+- ✅ Json DB entegrasyonu
 - ✅ Slash komutları
 - ✅ Kullanım kolaylığı
 - ✅ Karaliste sistemi
