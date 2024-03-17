@@ -46,8 +46,8 @@ fs.readdirSync(eventsDir).forEach((category) => {
         konsol.log({ name: "EVENTS", text: `${name} adlı eventi yükledim!`, hex: "#112561", timeout: 1000 });
     });
 });
-
+/*
 process.on("uncaughtException", (err) => { konsol.error({ name: "ERROR", text: err.stack, timeout: 1000 }); client.channels.cache.get(config.error_log.channel_id).send({ embeds: [new EmbedBuilder().setColor("Red").setTitle(`${client.user.username} - Hata`).setDescription(`**${client.user.username}** adlı botda bir hata ile karşılaşıldı.`).addFields([{ name: "⚠️Hata", value: err.message, inline: true }])] }) });
 process.on("unhandledRejection", (err) => { konsol.error({ name: "ERROR", text: err.stack, timeout: 1000 }); client.channels.cache.get(config.error_log.channel_id).send({ embeds: [new EmbedBuilder().setColor("Red").setTitle(`${client.user.username} - Hata`).setDescription(`**${client.user.username}** adlı botda bir hata ile karşılaşıldı.`).addFields([{ name: "⚠️Hata", value: err.message, inline: true }])] }) });
-
+*/
 client.login(process.env.TOKEN);
